@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "initStudent1",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "initStudent2",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"testReference.sol": "testReferenceType"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"testReference.sol": {
+			"keccak256": "0x622b2daa23117ab6240e8ca11c57c34de1ff654bf418e16dfc09a50c914b2821",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://81889a928f5d7798dc11023217b91aa8cb4baeaa470add9ed0e57038d15bdd13",
+				"dweb:/ipfs/QmU957WviJrZ1FRVUMoDvAXWtPQuw2YtZwJiPFoD1CkiNv"
+			]
+		}
+	},
+	"version": 1
+}

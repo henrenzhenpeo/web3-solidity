@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "initStudent",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"testReference.sol": "StructTypes"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"testReference.sol": {
+			"keccak256": "0xc5c97d438f2ec8ebb86e386803fec5653a090da166d15d6638f774ad87553c10",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d6563a7adedb7c552cb4286d2ce34ba75772a4a9faa6e8bc6276e3fbb4ad96c3",
+				"dweb:/ipfs/QmdsnfULminjporZRwoPfqWNZvSx24n89sWLwMoZMfv9S4"
+			]
+		}
+	},
+	"version": 1
+}
